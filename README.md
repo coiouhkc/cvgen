@@ -8,7 +8,6 @@ Scala script to generate a résumé (CV) based on XML input.
 * ```jdk```
 * ```scala```
 * ```pdflatex```
-* ```Calibri``` font (otherwise you need to adjust the font in `cvgen.scala`)
 
 ### input
 ```
